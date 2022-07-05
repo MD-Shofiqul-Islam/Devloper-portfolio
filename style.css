@@ -1,5 +1,6 @@
 body{
 font-family: 'Poppins', sans-serif;
+margin: 0;
 }
 .small{
   font-size: 40px;
@@ -27,6 +28,12 @@ h1{
   color: white;
   background-image: linear-gradient(orange, tomato);
   border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+ 
+
 }
 
 
